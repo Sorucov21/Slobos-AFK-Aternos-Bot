@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "LUP LUP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": Salim_Orujov.aternos.me"",
+    "port": 45041,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "ADAM OLUN LA",
         "I like to play Minecraft!"
       ]
     },
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1559828010998431754/LtGC2C0nS67NNOhimNh041zcce7bT_EHxb_kHsCXfxZypdeZBMz4bZdZbrLJ_-SX43Ex",
     "events": {
       "connect": true,
       "disconnect": true,
